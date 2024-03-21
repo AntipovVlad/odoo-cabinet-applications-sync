@@ -1,0 +1,14 @@
+odoo_params:
+  url: https://odoo.miem.tv/
+  odoo_db: db
+  odoo_username: username
+  odoo_password: password
+  odoo_job: test
+
+cabinet_base_url: https://cabinet.miem.hse.ru
+
+project_numbers:
+  - 1
+  - 2
+  - 3
+  - 4
